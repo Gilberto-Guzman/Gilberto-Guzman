@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi, I'm Gilbert ☕
+
+I'm a Software Enginner student, i'm interested in everything related to technology and mobile development.
+
+Proficient Lang's:
+- C/C++
+- Java
+- C#
+- Python
+- Dart
+
+Proficient Skills:
+
+- Mobile Development
+- Data Bases
+- Linux
+- Virtual Machines
 
 <!--
 **Gilberto-Guzman/Gilberto-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
