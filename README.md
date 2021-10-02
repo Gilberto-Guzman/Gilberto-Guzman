@@ -13,16 +13,22 @@ Proficient Lang's:
 Proficient Skills:
 
 - Mobile Development
-- Data Bases
+- Software Development
+- DataBases
+- Remote Support
 - Linux
 - Virtual Machines
 
+Favorite Software
 
+- AutoCAD
+- Adobe Premier and Filmora
+- Krita and OpenBoard
 
 <!--
 **Gilberto-Guzman/Gilberto-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-favorite software applications
+favorite software 
 
 Here are some ideas to get you started:
 
