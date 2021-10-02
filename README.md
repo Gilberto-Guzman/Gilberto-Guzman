@@ -19,7 +19,7 @@ Proficient Skills:
 - Linux
 - Virtual Machines
 
-Favorite Software
+Favorite Software:
 
 - AutoCAD
 - Adobe Premier and Filmora
