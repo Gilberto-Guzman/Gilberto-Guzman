@@ -9,9 +9,10 @@ I'm a Software Enginner student, i'm interested in everything related to technol
 </div>
 
 I´m learning:
-<div style="display: inline_block">
+
   
-</div> 
+            <i class="devicon-flutter-plain colored"></i>
+          
 
 
 
