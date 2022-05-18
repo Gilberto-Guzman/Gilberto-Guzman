@@ -9,10 +9,10 @@ I'm a Software Enginner student, i'm interested in everything related to technol
 </div>
 
 
-<div style="display: inline_block"><br>       
- 
+<div style="display: inline_block"><br>               
   <img align="center" alt="FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-
+  <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="FLASK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
  
 
