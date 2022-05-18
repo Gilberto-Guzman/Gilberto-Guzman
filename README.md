@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Skills  
+## Skills.  
 <div style="display: inline_block"><br> 
     <img align="center" alt="VISUAL-STUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
