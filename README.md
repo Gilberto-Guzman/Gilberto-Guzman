@@ -8,8 +8,6 @@ I'm a Software Enginner student, i'm interested in everything related to technol
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
@@ -19,7 +17,6 @@ I'm a Software Enginner student, i'm interested in everything related to technol
 
 <!--
 **Gilberto-Guzman/Gilberto-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilberto-Guzman&theme=dark&show_icons=true)
 
 favorite software 
 
