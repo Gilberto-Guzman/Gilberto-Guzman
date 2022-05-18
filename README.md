@@ -1,6 +1,6 @@
 ### Hi, I'm Gilbert ☕
 
-I'm a Software Enginner student, i'm interested in everything related to technology and mobile development.
+I'm a Software Enginner student, i'm interested in everything related to technology and development.
 
 <div align="center">
   <a href="https://github.com/Gilberto-Guzman">
