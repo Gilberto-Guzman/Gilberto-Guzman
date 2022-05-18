@@ -8,7 +8,11 @@
 </div>
 
 ## Skills  
-
+<div style="display: inline_block"><br>               
+    <img align="center" alt="ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+</div>
+            
+  
 ### I’m currently learning.
 <div style="display: inline_block"><br>               
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
