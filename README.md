@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## I'm want to learn.
+# I want to learn.
 <div style="display: inline_block"><br>               
   <img align="center" alt="FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
