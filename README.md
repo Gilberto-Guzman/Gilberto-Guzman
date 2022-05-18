@@ -2,7 +2,8 @@
 
 I'm a Software Enginner student, i'm interested in everything related to technology and mobile development.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=
+Gilberto-Guzman&theme=dark&show_icons=true)
 
 
 
