@@ -11,9 +11,15 @@
 <div style="display: inline_block"><br> 
     <img align="center" alt="VISUAL-STUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">  
 </div>
+
+## Certifications
+<div style="display: inline_block"><br>
+   <img align="center" alt="HTML" height="150" width="150" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-ai-fundamentals.png">
+</div>
+
             
-  
 ### I’m currently learning.
 <div style="display: inline_block"><br>               
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +34,8 @@
   <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="FLASK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
- 
+
+  
 
 
 
@@ -39,6 +46,16 @@
 **Gilberto-Guzman/Gilberto-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://devicon.dev/
 favorite software 
+
+## Certifications.
+<div style="display: inline_block"><br>   
+  
+  ### -Microsoft Azure AZ-900
+  
+  <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+</div>
+
+
 
 Here are some ideas to get you started:
 
