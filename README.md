@@ -14,7 +14,7 @@
     <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">  
 </div>
 
-## Certifications
+## Certifications.
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="150" width="150" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-ai-fundamentals.png">
 </div>
