@@ -35,7 +35,12 @@
   <img align="center" alt="FLASK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
 
-  
+## Contact me.
+### EMAIL: 
+*<josegilbertoguzmangutierrez@gmail.com>*.
+
+
+
 
 
 
