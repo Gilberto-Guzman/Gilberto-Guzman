@@ -36,8 +36,8 @@
 </div>
 
 ## Contact me.
-### EMAIL: 
-*<josegilbertoguzmangutierrez@gmail.com>*.
+### EMAIL:  
+- josegilbertoguzmangutierrez@gmail.com.
 
 
 
