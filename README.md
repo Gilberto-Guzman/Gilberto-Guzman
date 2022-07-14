@@ -1,5 +1,5 @@
 ## Hi, I'm Gilbert ☕
-### I'm a Software Enginner student, i'm interested in everything related to technology and sotfware development.
+### I'm a Software Enginner student, I'm interested in everything related to technology and sotfware development.
 
 <div align="center">
   <a href="https://github.com/Gilberto-Guzman">
