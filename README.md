@@ -16,7 +16,7 @@
 
 ## Certifications.
 <div style="display: inline_block"><br>
-   <img align="center" alt="HTML" height="150" width="150" src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/Azure/badge-azure-ai-fundamentals.png">
+   <img align="center" alt="HTML" height="150" width="150" src="https://miro.medium.com/max/1200/1*xaBJMux-ZpeRnyH3RDQXYA.png">
 </div>
 
             
