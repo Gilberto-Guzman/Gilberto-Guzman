@@ -39,37 +39,8 @@
 ### EMAIL:  
 - josegilbertoguzmangutierrez@gmail.com.
 
+### MY WEBSITE
+- WORKING IN PROGRESS...
 
-
-
-
-
-
-
-
-<!--
-**Gilberto-Guzman/Gilberto-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://devicon.dev/
-favorite software 
-
-## Certifications.
-<div style="display: inline_block"><br>   
-  
-  ### -Microsoft Azure AZ-900
-  
-  <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-</div>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MY CV 
+- WORKING IN PROGRESS...  
