@@ -39,8 +39,8 @@
 ### EMAIL:  
 - josegilbertoguzmangutierrez@gmail.com.
 
-### MY WEBSITE
+### PORTFOLIO
 - WORKING IN PROGRESS...
 
-### MY CV 
+### CV 
 - WORKING IN PROGRESS...  
