@@ -36,11 +36,11 @@
 </div>
 
 ## Contact me.
-### EMAIL:  
+### EMAIL.  
 - josegilbertoguzmangutierrez@gmail.com.
 
-### PORTFOLIO
+### PORTFOLIO.
 - WORKING IN PROGRESS...
 
-### CV 
+### CV. 
 - WORKING IN PROGRESS...  
