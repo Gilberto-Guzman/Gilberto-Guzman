@@ -7,6 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gilberto-Guzman&label=Profile%20views&color=0e75b6&style=flat" alt="Gilberto-Guzman" /> </p>
+
+  
 ## Skills.  
 <div style="display: inline_block"><br> 
     <img align="center" alt="VISUAL-STUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
