@@ -1,6 +1,6 @@
-## Hi, I'm Gilberttttt ☕
+# Hi, I'm Gilbert ☕
 
-### I'm a Software Enginner student, I'm interested in everything related to technology and sotfware development.
+## I'm a Software Enginner student, I'm interested in everything related to technology and sotfware development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gilberto-Guzman&label=Profile%20views&color=0e75b6&style=flat" alt="Gilberto-Guzman" /> </p>
 
@@ -10,46 +10,48 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Skills.
+# Knowledge
 
-<div style="display: inline_block"><br> 
-    <img align="center" alt="VISUAL-STUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-    <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">  
-</div>
+## Code
 
-## Certifications.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="HTML" height="150" width="150" src="https://miro.medium.com/max/1200/1*xaBJMux-ZpeRnyH3RDQXYA.png">
-</div>
+## Operanting Systems
 
-### I’m currently learning.
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
-<div style="display: inline_block"><br>               
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-    
-### I want to learn.
-<div style="display: inline_block"><br>               
-  <img align="center" alt="FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="FLASK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-</div>
+## Database Managment
 
-## Contact me.
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-### EMAIL.
+## Frameworks
 
-- josegilbertoguzmangutierrez@gmail.com.
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
+## Technologies
+
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+## Other abilities
+
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
+[![Filmora](https://img.shields.io/badge/Filmora-008CBA?style=for-the-badge&logo=wondershare-filmora&logoColor=white)]()
+[![Canva](https://img.shields.io/badge/Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=white)]()
+[![Prezi](https://img.shields.io/badge/Prezi-318CE7?style=for-the-badge&logo=prezi&logoColor=white)]()
+[![Visme](https://img.shields.io/badge/Visme-15B5E2?style=for-the-badge&logo=visme&logoColor=white)]()
 
 <!--
 ### PORTFOLIO (Website).
 - WORKING IN PROGRESS...
 
 ### CV.
-- WORKING IN PROGRESS...
+- will be available in the next few days...
 -->
