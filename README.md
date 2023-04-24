@@ -19,6 +19,12 @@
 [![C++](https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ## Operanting Systems
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -47,6 +53,10 @@
 [![Canva](https://img.shields.io/badge/Canva-20C4CB?style=for-the-badge&logo=canva&logoColor=white)]()
 [![Prezi](https://img.shields.io/badge/Prezi-318CE7?style=for-the-badge&logo=prezi&logoColor=white)]()
 [![Visme](https://img.shields.io/badge/Visme-15B5E2?style=for-the-badge&logo=visme&logoColor=white)]()
+
+# Courses taught
+
+- https://github.com/Gilberto-Guzman/Markdown-Crash-Course
 
 <!--
 ### PORTFOLIO (Website).
