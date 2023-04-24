@@ -1,4 +1,5 @@
-## Hi, I'm Gilbert ☕
+## Hi, I'm Gilberttttt ☕
+
 ### I'm a Software Enginner student, I'm interested in everything related to technology and sotfware development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gilberto-Guzman&label=Profile%20views&color=0e75b6&style=flat" alt="Gilberto-Guzman" /> </p>
@@ -9,8 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Guzman&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-  
-## Skills.  
+## Skills.
+
 <div style="display: inline_block"><br> 
     <img align="center" alt="VISUAL-STUDIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
@@ -18,12 +19,13 @@
 </div>
 
 ## Certifications.
+
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="150" width="150" src="https://miro.medium.com/max/1200/1*xaBJMux-ZpeRnyH3RDQXYA.png">
 </div>
 
-            
 ### I’m currently learning.
+
 <div style="display: inline_block"><br>               
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -39,13 +41,15 @@
 </div>
 
 ## Contact me.
-### EMAIL.  
+
+### EMAIL.
+
 - josegilbertoguzmangutierrez@gmail.com.
 
 <!--
 ### PORTFOLIO (Website).
 - WORKING IN PROGRESS...
 
-### CV. 
-- WORKING IN PROGRESS...  
+### CV.
+- WORKING IN PROGRESS...
 -->
