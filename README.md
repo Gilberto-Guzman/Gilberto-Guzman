@@ -56,7 +56,11 @@
 
 # Courses taught
 
-- https://github.com/Gilberto-Guzman/Markdown-Crash-Course
+## Markdown Crash Course
+
+- Code: https://github.com/Gilberto-Guzman/Markdown-Crash-Course
+- Presentation: https://docs.google.com/presentation/d/1w4JW2kBAsklpuqx6HOW17nN-9rHcXnLbf-2TmkeREYg/edit?usp=sharing
+- Complete course: https://www.youtube.com/watch?v=cb9705c3DqI
 
 <!--
 ### PORTFOLIO (Website).
