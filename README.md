@@ -1,6 +1,9 @@
 # Hi, I'm Gilbert ☕
 
 ## I'm a Software Enginner student, I'm interested in everything related to technology and sotfware development.
+ 
+## Check my [CV](https://github.com/Gilberto-Guzman/Gilberto-Guzman/blob/main/Docs/Gilberto-Guzman-CV.pdf)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gilberto-Guzman&label=Profile%20views&color=0e75b6&style=flat" alt="Gilberto-Guzman" /> </p>
 
@@ -65,7 +68,4 @@
 <!--
 ### PORTFOLIO (Website).
 - WORKING IN PROGRESS...
-
-### CV.
-- will be available in the next few days...
 -->
