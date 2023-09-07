@@ -64,9 +64,22 @@
 
 - Code: https://github.com/Gilberto-Guzman/Markdown-Crash-Course
 - Presentation: https://docs.google.com/presentation/d/1w4JW2kBAsklpuqx6HOW17nN-9rHcXnLbf-2TmkeREYg/edit?usp=sharing
-- Complete course: https://www.youtube.com/watch?v=cb9705c3DqI
+- Complete course:  
+    Red por la Ciberseguridad ➜ https://www.facebook.com/redporlaciberseguridad/videos/671294364909035/  
+    Universidad Autonoma de Chiapas ➜ https://www.youtube.com/watch?v=cb9705c3DqI
 
-<!--
-### PORTFOLIO (Website).
-- WORKING IN PROGRESS...
--->
+## React + Material UI Crash Course
+
+- Code: https://github.com/Gilberto-Guzman/gilberto-guzman.github.io
+- Presentation: https://docs.google.com/presentation/d/1qE_IGTsv0RQMbrO-t5UazLboA5rq2lLLFcM1U3bb7k0/edit?usp=sharing
+- Complete course:  
+    Red por la Ciberseguridad ➜ https://www.facebook.com/redporlaciberseguridad/videos/3580184082258977
+    Universidad Autonoma de Chiapas ➜ youtube-link-pendiente
+
+## ChatGPT Prompt Engineering Crash Course
+
+- Code: https://github.com/Gilberto-Guzman/Ingenieria-de-avisos-de-chatgpt
+- Presentation: https://docs.google.com/presentation/d/1V5g4-tbtjlMtItS1aQD2oNOTZnm1JxjBr0N8ghgu9X4/edit?usp=sharing
+- Complete course:  
+    Red por la Ciberseguridad ➜ facebook-link-pendiente
+    Universidad Autonoma de Chiapas ➜ youtube-link-pendiente
