@@ -82,4 +82,4 @@
 - Presentation: https://docs.google.com/presentation/d/1V5g4-tbtjlMtItS1aQD2oNOTZnm1JxjBr0N8ghgu9X4/edit?usp=sharing
 - Complete course:  
     Red por la Ciberseguridad ➜ facebook-link-pendiente  
-    Universidad Autonoma de Chiapas ➜ youtube-link-pendiente
+    Universidad Autonoma de Chiapas ➜ https://www.youtube.com/watch?v=14Zu7HUgWuA
